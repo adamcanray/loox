@@ -2,6 +2,40 @@
 
 Investigate the port for each host on your current network.
 
+## Pre-requisites
+
+Before running the `loox.sh` file, you must have [Nmap](https://nmap.org/) installed on your machine. Nmap is a free and open-source utility used for network exploration and security auditing.
+
+To install Nmap on Linux, you can use your distribution's package manager:
+
+Ubuntu/Debian
+
+```
+sudo apt-get install nmap
+```
+
+Fedora
+
+```
+sudo dnf install nmap
+```
+
+Arch Linux
+
+```
+sudo pacman -S nmap
+```
+
+To install Nmap on macOS, you can use [Homebrew](https://brew.sh/):
+
+```
+brew install nmap
+```
+
+To install Nmap on Windows, you can download the installer from the official Nmap website:
+
+> https://nmap.org/download.html#windows
+
 ## Getting Started
 
 To run the `loox.sh` file, follow these steps:
