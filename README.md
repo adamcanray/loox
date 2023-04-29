@@ -50,7 +50,7 @@ To run the `loox.sh` file, follow these steps:
    ./loox.sh -tlip=192.168.1.100/24
    ```
 
-   This will scan all hosts on the `192.168.1` network.
+   This will scan all hosts on the `192.168.1.100` network.
 
 ## License
 
